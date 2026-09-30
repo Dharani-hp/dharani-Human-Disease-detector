@@ -1,0 +1,6 @@
+{
+  "name": "Human Early Disease Detector",
+  "description": "Analyze medical imaging & prescription files for early disease detection, track health history, and receive personalized food & exercise recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
